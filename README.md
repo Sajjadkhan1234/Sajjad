@@ -1,2 +1,2 @@
 # Sajjad
-cd sajjad
+cd sajjad.py
